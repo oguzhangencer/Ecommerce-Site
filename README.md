@@ -1,2 +1,4 @@
-# Responsive-Ecommerce
-(https://oguzhangencer.github.io/Responsive-Ecommerce/)
+# Ecommerce Site 
+* It is a shopping website
+
+**You can visit the website clicking [here!](https://oguzhangencer.github.io/Responsive-Ecommerce/)**
